@@ -1,0 +1,16 @@
+.header {
+    background: #dadada;
+    color: #0d0d46;
+    font-weight: 600;
+    padding: 1%;
+}
+
+.home-link {
+    float: right;
+    padding-right: 10px;
+}
+
+.contact-link {
+    float: right;
+    padding-right: 10px;
+}

@@ -1,0 +1,10 @@
+body {
+  font-size: 12px;
+  padding: 10px;
+}
+
+.main-conainer {
+  background: white;
+  box-shadow: 1px 3px 7px -2px grey;
+  height: 97vh;
+}
